@@ -1,0 +1,13 @@
+página web de venta de productos artesanales (amigurumis).
+
+pagina pirincipal: encabezado con logo, navegador de pagina, busqueda por categorias (animales, personajes, objetos,etc..)
+
+
+
+contenido de paginas: 
+		pedidos.
+			una breve descripcion de lo que se quiere se envia al correo de la empresa y de ahi se ponen en 			contacto.
+		registro.
+			registro en base de datos cada vez que sale un nuevo producto se envia un correo.
+		trabajos.
+			se mosstrara una galeria de trabajos realizados.
